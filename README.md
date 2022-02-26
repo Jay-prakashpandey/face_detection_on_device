@@ -1,1 +1,1 @@
-# face_detection_on_device
+This app is for face detection flutter app ,under_deplopmet.null safety 
